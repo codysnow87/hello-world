@@ -8,3 +8,5 @@ In my first 420 lab, we were instructed to create this hello-world tutorial. It 
 I'm a senior CS student at USM, and it feels good to type that! My first B.A. is in English, but I decided to return to school to get a B.S. in Computer Science. 60 credit hours later, here I am! 
 
 In my non-work and non-school time (which is very limited) I love to hike, read, and work on motorcycles. 
+
+One more update test, since I have two email accounts tied to my github account, and I want to use my school email here. 
